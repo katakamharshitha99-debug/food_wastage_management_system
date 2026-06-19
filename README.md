@@ -1,0 +1,1 @@
+# food_wastage_management_system
